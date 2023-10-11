@@ -1,4 +1,4 @@
-# Introduction
+# Breadboard
 By using a template we were ordered to make a schematic of a cirucuit and build it onto a protoboard.    
 The aim of this task was to start familiarizing ourselves with Fusion 360 and circuit designing.
 
