@@ -9,4 +9,4 @@ Please note that this folder was included to show our learning progress and docu
 3. **Prototyping Board** : Soldering the previous circuit and adding a simple extra functionality.
 
 ### Notes
-The folder are in chronological order.
+The folders are in chronological order.
