@@ -3,7 +3,7 @@ By using a template we were ordered to make a schematic of a cirucuit and build 
 The aim of this task was to start familiarizing ourselves with Fusion 360 and circuit designing.
 
 ### Files
-+ **schematic.png** : Picture of the schematic
++ **schematic.png** : Picture of the schematic.
 + **protoboard_demonstration.mp4** : Video showing the circuit working.
 
 ### Notes
