@@ -5,3 +5,4 @@ This stage focused on mastering our soldering skills, so we endeavoured on pract
 + **report.pdf** :
 
 ### Notes
+The LED circle board was soldered individually.
