@@ -5,5 +5,5 @@
 + **Tasks** : Training done before working on the final project.
 
 ## Authors
-**Guillermo Vidal Sulé** - Author of this repository and developper of the project.  
-**Arnau Mariegas** - Developper.
+**Guillermo Vidal Sulé** - Author of this repository and developer of the project.  
+**Arnau Mariegas** - Developer.
