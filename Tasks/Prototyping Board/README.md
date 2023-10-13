@@ -4,5 +4,5 @@ The circuit is the same as the one in **Breadboard**, but with an extra function
 
 # Files
 + **schematic.png** : Picture of the circuit's schematic with the additional functionality.
-+ **demonstration_protoboard.mp4** : Video of the soldered circuit.
++ **demonstration.mp4** : Video of the soldered circuit.
 + **report.pdf** : Report of our work.
